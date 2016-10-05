@@ -1,0 +1,15 @@
+{
+  "name": "derek-fons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "runtest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request-promise": "^4.1.1"
+  }
+}
